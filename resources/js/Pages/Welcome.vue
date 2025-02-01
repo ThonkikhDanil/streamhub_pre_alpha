@@ -6,7 +6,7 @@
 		title: {
 			type: String,
 		},
-	})
+	});
 </script>
 
 <template>
