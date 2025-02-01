@@ -12,6 +12,6 @@
 <template>
 	<Head :title="title" />
 	<Layout>
-		<p>Hello World!</p>
+		<p class="m-4">Hello World!</p>
 	</Layout>
 </template>
