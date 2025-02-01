@@ -5,6 +5,6 @@
 <template>
 	<Link :href="route('welcome')" class="text-4xl font-semibold">
 		<span class="text-[#010326] dark:text-[#D5F2F2]">Stream</span>
-		<span class="text-[#116EBF]">Hub</span>
+		<span class="text-[#116EBF] dark:text-[#1F82BF]">Hub</span>
 	</Link>
 </template>

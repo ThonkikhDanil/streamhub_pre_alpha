@@ -7,11 +7,11 @@
 
 <template>
 	<button @click="toggleDark()">
-		<span v-if="isDark">
-			<i class="relative fi fi-br-brightness top-1" />
+		<span v-if="isDark" class="relative top-1">
+			<i class="fi fi-br-brightness" />
 		</span>
-		<span v-else>
-			<i class="relative fi fi-br-moon-stars top-1"></i>
+		<span v-else class="relative top-1">
+			<i class="fi fi-br-moon-stars" />
 		</span>
 	</button>
 </template>
