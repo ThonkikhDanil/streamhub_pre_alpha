@@ -1,4 +1,4 @@
-<script setup>
+<script setup lang="ts">
 	import ApplicationLogo from '@/Components/ApplicationLogo.vue';
 	import ToggleDarkThemeButton from '@/Components/ToggleDarkThemeButton.vue';
 	import SearchRow from '@/Components/SearchRow.vue';
